@@ -16,7 +16,7 @@ body {
     align-items: center;
     flex-direction: column;
     min-height: 90vh;
-    padding-top: 300px;
+    justify-content: center;
 }
 
 .div-wrap {
