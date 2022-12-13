@@ -22,9 +22,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-Desktop Preview
+              Desktop Preview
 ![Desktop Preview](./desktop-screenshot.jpg)
-Mobile Preview
+              Mobile Preview
 ![Mobile Preview](./mobile-screenshot.jpg)
 
 ### Links
