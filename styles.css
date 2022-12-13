@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-color: hsl(185, 75%, 39%);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 48vw bottom 40vh, left 50vw top 40vh;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 90vh;
+    padding-top: 300px;
+}
+
+.div-wrap {
+    background-color: white;
+    width: 350px;
+    border-radius: 0 0 12px 12px;
+}
+
+.header-img {
+    vertical-align: middle;
+    border-radius: 12px 12px 0 0;
+}
+
+.profile-icon img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 4px solid white;
+    position: absolute;
+    left: 47%;
+    bottom: 470px;
+}
+
+.profile-info {
+    padding-top: 65px;
+    display: flex;
+    justify-content: center;
+}
+
+.age {
+    padding-left: 10px;
+}
+
+.location {
+    text-align: center;
+    padding-top: 10px;
+    font-family: "Kumbh Sans", "sans-serif";
+    font-weight: 400;
+    font-size: 14px;
+    color: hsl(227, 10%, 46%);
+}
+
+h3 {
+    font-family: "Kumbh Sans", "sans-serif";
+}
+
+.age {
+    font-family: "Kumbh Sans", "sans-serif";
+    color: hsl(227, 10%, 46%);
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.line {
+    margin-top: 25px;
+    border: none;
+    height: 1px;
+    background-color: hsl(216, 10%, 80%);
+}
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    font-family: "Kumbh Sans", "sans-serif";
+}
+
+.first, .second, .third {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.type {
+    font-size: 10px;
+    font-weight: 400;
+    color: hsl(227, 10%, 46%);
+    letter-spacing: 2px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.attribution {
+    text-align: center;
+    font-family: "Kumbh Sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(227, 39%, 43%);
+}
+
+a:hover {
+    color: hsl(227, 10%, 46%);
+}
