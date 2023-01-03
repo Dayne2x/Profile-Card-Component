@@ -27,12 +27,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Code](https://github.com/Dayne2x/profile-card-component/tree/main)
+- Live Site URL: [GitHub Pages Live URL](https://dayne2x.github.io/profile-card-component/)
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -41,9 +41,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-Despite this project seeming pretty straightforward I have't had the easiest time with it. I had issues aliging the profile photo in its' correct place and I'm not really
-satisfied with the solution I menaged.
+Despite this project seeming pretty straightforward I haven't had the easiest time with it. I had issues aliging the profile photo in its' correct place and I'm not really
+satisfied with the solution I managed.
 As a result of it the mobile version isn't responsive.
+UPDATE: With a few edits the page is now fully responsive and properly aligned.
 
 
 ### Continued development
@@ -58,5 +59,5 @@ You can find me at:
 
 - Frontend Mentor - [@Dayne2x](https://www.frontendmentor.io/profile/Dayne2x)
 - Github - [@Dayne2x](https://github.com/Dayne2x)
-- LinkedIn [Nemanja](https://www.linkedin.com/in/nemanjadayne/)
+- LinkedIn - [Nemanja](https://www.linkedin.com/in/nemanjadayne/)
 
